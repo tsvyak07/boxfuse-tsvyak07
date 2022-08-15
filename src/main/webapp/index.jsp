@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
-<h1>CatLight Action center for developers/h1>
+<h1>CatLight Action center for developers</h1>
 <h2>Hello from KZ</h2>
 <img src="boxfuse.png">
 
