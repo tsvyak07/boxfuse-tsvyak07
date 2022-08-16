@@ -7,7 +7,7 @@
 <h1>CatLight Action center for developers</h1>
 <h2>TEST from 160822</h2>
 <img src="boxfuse.png">
-<h2>You have deploy you app with IDEA + Jenkins pipeline code !</h2>
+<h2>You have deploy you app with IDEA + Jenkins pipeline code + i try use CATLIGTH  !</h2>
 <h2>You have successfully launched your Instance!</h2>
 <h2>Hello from TSVYAK07</h2>
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
