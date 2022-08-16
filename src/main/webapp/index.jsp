@@ -5,7 +5,7 @@
 <body style="text-align: center">
 <h1>Congratulations! TEST from 160822</h1>
 <h1>CatLight Action center for developers</h1>
-<h2>Hello from KZ</h2>
+<h2>TEST from 160822</h2>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
